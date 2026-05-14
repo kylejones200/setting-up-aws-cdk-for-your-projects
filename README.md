@@ -1,7 +1,7 @@
 # Setting up AWS CDK for your projects
 
-**Published:** 2024-09-30
-**Medium:** [https://medium.com/@kyle-t-jones/setting-up-aws-cdk-for-your-projects-713d1d518b9a](https://medium.com/@kyle-t-jones/setting-up-aws-cdk-for-your-projects-713d1d518b9a)
+Published: 2024-09-30
+Medium: [https://medium.com/@kyle-t-jones/setting-up-aws-cdk-for-your-projects-713d1d518b9a](https://medium.com/@kyle-t-jones/setting-up-aws-cdk-for-your-projects-713d1d518b9a)
 
 ## About
 
